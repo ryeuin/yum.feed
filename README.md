@@ -46,19 +46,20 @@ Yum is currently being built with **[tailwindcss](https://tailwindcss.com), [nex
 ## Getting Started
 
 Run these commands on your terminal.
-```sh
+```git
 git clone https://github.com/r6nted/yum.feed
 cd yum.feed
 ```
 
 ### Dependencies
 To install this projects dependencies run the commands below in your terminal.
-* npm
-  ```sh
+
+* npm 
+  ```
   npm install
   ```
- * yarn
-  ```sh
+* yarn
+  ```
   yarn install
   ```
 
